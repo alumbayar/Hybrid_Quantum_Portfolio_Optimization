@@ -86,11 +86,11 @@ Hybrid_Quantum_Portfolio_Optimization/
 
 ## 🧠 Citation & Background
 
-[1] H. Markowitz, “Portfolio selection,” The Journal of Finance, vol. 7, no. 1, p. 77, Mar. 1952. doi:10.2307/2975974
-[2] W. F. Sharpe, “Capital asset prices: A theory of market equilibrium under conditions of risk,” The Journal of Finance, vol. 19, no. 3, pp. 425–442, Sep. 1964. doi:10.1111/j.1540-6261.1964.tb02865.x
-[3] G. Buonaiuto, F. Gargiulo, G. De Pietro, M. Esposito, and M. Pota, “Best practices for portfolio optimization by Quantum Computing, experimented on real quantum devices,” Scientific Reports, vol. 13, no. 1, Nov. 2023. doi:10.1038/s41598-023-45392-w
-[4] R. T. Rockafellar and S. Uryasev, “Optimization of conditional value-at-risk,” The Journal of Risk, vol. 2, no. 3, pp. 21–41, 2000. doi:10.21314/jor.2000.038
-[5] S. Mugel et al., “Hybrid quantum investment optimization with minimal holding period,” Scientific Reports, vol. 11, no. 1, Oct. 2021. doi:10.1038/s41598-021-98297-x
+- [1] H. Markowitz, “Portfolio selection,” The Journal of Finance, vol. 7, no. 1, p. 77, Mar. 1952. doi:10.2307/2975974
+- [2] W. F. Sharpe, “Capital asset prices: A theory of market equilibrium under conditions of risk,” The Journal of Finance, vol. 19, no. 3, pp. 425–442, Sep. 1964. doi:10.1111/j.1540-6261.1964.tb02865.x
+- [3] G. Buonaiuto, F. Gargiulo, G. De Pietro, M. Esposito, and M. Pota, “Best practices for portfolio optimization by Quantum Computing, experimented on real quantum devices,” Scientific Reports, vol. 13, no. 1, Nov. 2023. doi:10.1038/s41598-023-45392-w
+- [4] R. T. Rockafellar and S. Uryasev, “Optimization of conditional value-at-risk,” The Journal of Risk, vol. 2, no. 3, pp. 21–41, 2000. doi:10.21314/jor.2000.038
+- [5] S. Mugel et al., “Hybrid quantum investment optimization with minimal holding period,” Scientific Reports, vol. 11, no. 1, Oct. 2021. doi:10.1038/s41598-021-98297-x
 
 AI-generated data and writing support via ChatGPT. All models, experiments, and conclusions by the author.
 
